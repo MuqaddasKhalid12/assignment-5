@@ -1,0 +1,38 @@
+body {
+    background-color: greenyellow;
+  }
+
+
+h1 {                        
+    font-family:green;
+    font-weight: normal;
+    font-style: calc();
+    text-transform: uppercase;
+    text-decoration: outline;
+    text-align: center;
+    line-height: 200px;
+    font-size: 50px;
+    text-shadow: -3px 5px 0px rgb(110, 110, 110);
+}
+
+ p {
+    color: orangered;
+    text-align: center;
+  
+    font-size:  18px;
+    line-height: 28px;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+    text-align: justify;
+    vertical-align: top;
+    text-indent: 50px;
+}
+
+.intro:first-letter {
+    font-size: 50px;
+    color: red;
+}
+
+.intro:second-line {
+    color:blueviolet;
+}
